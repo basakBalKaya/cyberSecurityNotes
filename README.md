@@ -1,5 +1,3 @@
-Tabii, işte tek parça halinde kopyalayıp yapıştırabileceğiniz `README.md` içeriği:  
-
 ---
 
 # Cyber Security Notes
@@ -76,9 +74,6 @@ For more learning resources, check out the [Resources.md](Resources.md) file for
 For any inquiries or suggestions, feel free to reach out via email:  
 📧 **balmbasak@gmail.com**
 
-## 🌐 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
