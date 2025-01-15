@@ -30,10 +30,9 @@ Cyber Security Notes/
 ├── Vulnerabilities/       # Known vulnerabilities and mitigations
 └── Resources.md           # Additional reading and resources
 🚀 Getting Started
+
 To get started, clone this repository:
 
-bash
-Kodu kopyala
 git clone https://github.com/basakBalKaya/cyberSecurityNotes.git
 Navigate to the specific topic of interest and start exploring!
 
